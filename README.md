@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **raidivyanka40@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15dQHlqqH4svyQtJ9bRJW91joLMsTuUtr/view](https://drive.google.com/file/d/15dQHlqqH4svyQtJ9bRJW91joLMsTuUtr/view)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/15dQHlqqH4svyQtJ9bRJW91joLMsTuUtr/view" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
