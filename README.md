@@ -22,3 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyankarai&show_icons=true&locale=en" alt="divyankarai" /></p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyankaRai&" alt="divyankaRai" /></p>
