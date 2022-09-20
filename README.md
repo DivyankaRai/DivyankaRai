@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Divyanka Rai</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">An aspiring and passionate Full Stack Web Developer.</h3>
 <img  align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-- 🌱 I’m currently learning **typescript, Data Structure and Algorithm**
+- 🌱 I’m currently learning **Typescript, Data Structure and Algorithm**
 
 - 👨‍💻 All of my projects are available at [divyankarai.github.io](divyankarai.github.io)
 
