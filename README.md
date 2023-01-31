@@ -2,7 +2,7 @@
 <!----------------------------------- Heading Section ------------------------------------>
 
 <img
-     src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" alt="priya reddy" />
+     src="https://dezinebrainz.com/images/web-design-gif.gif" alt="priya reddy" />
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
@@ -30,7 +30,7 @@
 
 - 📫 How to reach me <b>*raidivyanka40@gmail.com*</b>
 
-- 📄 Know about my work also in my <b><a href="[https://drive.google.com/file/d/1vI6wwJxEwUK43JkBsGT2K7tkeNgCr0jZ/view?usp=sharing](https://drive.google.com/file/d/15dQHlqqH4svyQtJ9bRJW91joLMsTuUtr/view)" target="_blank">RESUME</a></b>
+- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/15dQHlqqH4svyQtJ9bRJW91joLMsTuUtr/view" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am a creative person*
 
