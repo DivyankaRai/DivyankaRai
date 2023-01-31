@@ -88,7 +88,7 @@
     <a href="https://www.linkedin.com/in/divyanka-rai-71a94124b/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/divyanka-rai-71a94124b/" />
     </a>
-    <a title="raidivyanka40@gmail.com" href="raidivyanka40@gmail.com">
+    <a title="raidivyanka40@gmail.com" href="raidivyanka40@gmail.com.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
            alt="raidivyanka40@gmail.com"/>
     </a>
