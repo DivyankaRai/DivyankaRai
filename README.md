@@ -126,10 +126,7 @@
  <hr/>
  	
 
-
-<p align="center"<a href="#"><img alt="Divyanka" src="https://activity-graph.herokuapp.com/graph?username=divyankarai&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-
-<p align="center"> <a href="https://github.com/divyankarai"><img src="https://github-profile-trophy.vercel.app/?username=divyankarai&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
+<p align="center"> <a href="https://github.com/divyankarai"><img src="https://github-profile-trophy.vercel.app/?username=divyankarai&margin-w=5&theme=radical" alt="Divyanka" /></a> </p>
 
 
 
