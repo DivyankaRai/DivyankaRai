@@ -2,7 +2,7 @@
 <!----------------------------------- Heading Section ------------------------------------>
 
 <img
-     src="https://dezinebrainz.com/images/web-design-gif.gif" alt="priya reddy" />
+     src="https://dezinebrainz.com/images/web-design-gif.gif" alt="divyanka" />
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
