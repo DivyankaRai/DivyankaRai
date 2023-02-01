@@ -117,6 +117,7 @@
 </p>
 
 <br/>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyankaRai&" alt="divyankaRai" /></p><br/><br/>
 
  <div align="left">
  <h3>ℹ️ &nbsp;Github Info</h3>
