@@ -105,20 +105,17 @@
 
 <!------------------------------------- githuib status part -------------------------------->
 
+<h3> 📊 My Github Stats</h3>
 
-<h3 align="left> 📊 My Github Stats</h3>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyankarai&label=Profile%20views&color=0e75b6&style=flat" alt="divyankarai" />
 <a href="https://github.com/divyankarai?tab=followers"><img src="https://img.shields.io/github/followers/divyankarai?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
   <br/>
-  
-
-
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyankarai&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="divyankarai" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyankarai&layout=compact&border_radius=0" alt="divyankarai" height="139" />
-</p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyankarai&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="divyankarai" height="160"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyankarai&layout=compact&border_radius=0" alt="divyankarai" height="160" />
+</p><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyankaRai&" alt="divyankaRai" /></p>
 <br/>
 
  <div align="left">
