@@ -14,7 +14,7 @@
 
 <!----------------------------------- About Section ---------------------------->
 
-<p>MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant, and efficient code.</p>
+<p>Full Stack Developer with experience in building user-friendly web applications. Possess strong problem-solving skills and a passion for creating efficient and scalable solutions. </p>
 <br>
 
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
