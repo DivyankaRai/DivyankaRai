@@ -14,15 +14,11 @@
 
 <!----------------------------------- About Section ---------------------------->
 
-<p>I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
+<p>MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant, and efficient code.</p>
 <br>
 
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
 
-
-- 🔭 I’m currently working on *MERN Stack*
-
-- 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
 - 👨‍💻 All of my projects are available at <b><a href="https://divyankarai.github.io" target="_blank">PORTFOLIO</a></b>
 
@@ -30,7 +26,7 @@
 
 - 📫 How to reach me <b>*raidivyanka40@gmail.com*</b>
 
-- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/15dQHlqqH4svyQtJ9bRJW91joLMsTuUtr/view" target="_blank">RESUME</a></b>
+- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1EaWGaSiv-bu0i01te1p4kKq5wX_wcOTn/view?usp=sharing" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am a creative person*
 
