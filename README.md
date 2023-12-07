@@ -14,7 +14,7 @@
 
 <!----------------------------------- About Section ---------------------------->
 
-<p> pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
+<p>I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
 <br>
 
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
