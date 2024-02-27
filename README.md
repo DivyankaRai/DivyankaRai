@@ -26,7 +26,7 @@
 
 - 📫 How to reach me <b>*raidivyanka40@gmail.com*</b>
 
-- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1EaWGaSiv-bu0i01te1p4kKq5wX_wcOTn/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/15dQHlqqH4svyQtJ9bRJW91joLMsTuUtr/view?usp=drive_link" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - *I am a creative person*
 
