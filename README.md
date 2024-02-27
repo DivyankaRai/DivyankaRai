@@ -4,9 +4,9 @@
 <img
      src="https://dezinebrainz.com/images/web-design-gif.gif" alt="divyanka" />
 <h1 align="center">
-    Hi
+    Hi,
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Divyanka Rai
+    it's Divyanka Rai!
     <h3 align="center">A passionate Web Developer from India</h3>
 </h1> 
 
